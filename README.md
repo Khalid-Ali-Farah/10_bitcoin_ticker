@@ -1,16 +1,20 @@
-# bitcoin_ticker
 
-A new Flutter project.
 
-## Getting Started
+# Bitcoin Ticker App
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+To Do List App is an app for creating to-do lists that helps you stay organized.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Bitcoin Ticker App Preview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Bitcoin Ticker App](todo.gif)
+
+
+
+
+
+## Installation
+
+To install Bitcoin Ticker App, you need to have Flutter installed on your system.
+
+
