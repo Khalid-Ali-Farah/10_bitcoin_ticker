@@ -7,7 +7,7 @@ To Do List App is an app for creating to-do lists that helps you stay organized.
 
 ## Bitcoin Ticker App Preview
 
-![Bitcoin Ticker App](todo.gif)
+![Bitcoin Ticker App](coin.gif)
 
 
 
