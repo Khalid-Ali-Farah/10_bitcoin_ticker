@@ -3,7 +3,7 @@
 # Bitcoin Ticker App
 
 
-To Do List App is an app for creating to-do lists that helps you stay organized.
+With this cryptocurrency app price tracking app, you can conveniently monitor your Bitcoin investments while on the go!
 
 ## Bitcoin Ticker App Preview
 
